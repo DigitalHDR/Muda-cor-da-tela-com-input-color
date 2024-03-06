@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    outline: none;
+  }
+  
+  html,
+  body {
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    place-items: center;
+    background: #354f60;
+  }
+  
+  
+  
+  input {
+    height: 30px;
+    width: 60px;
+    border-radius: 0%;
+  }
